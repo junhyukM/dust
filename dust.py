@@ -38,7 +38,3 @@ elif 101 <= dust <=150:
 # 151~200 매우나쁨
 else:
     print('매우나쁨')
-
-
-
-#print(dust)
